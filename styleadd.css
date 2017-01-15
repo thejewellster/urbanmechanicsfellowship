@@ -41,3 +41,8 @@ padding: 2% 15%;
 .small-icon{
 	max-width: 200px;
 }
+
+.container-fluid{
+	background-color: #fbcb43;
+	color: black;
+}
